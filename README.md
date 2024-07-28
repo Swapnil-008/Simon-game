@@ -7,7 +7,7 @@ The game consists of four colored boxes which start blinking from one box at fir
 ## Rule 1: Color Sequence
 ------------------------
 
-* The game will display a sequence of colored lights (red, green, blue, and yellow) and sounds.
+* The game will display a sequence of colored lights.
 * The player must memorize the sequence.
 
 ## Rule 2: Player's Turn
